@@ -1,2 +1,5 @@
 # quest-vr-webxr-barrage
-Barrage plain-language clone of fitzyracing1/quest-vr-webxr
+
+Barrage clone of [fitzyracing1/quest-vr-webxr](https://github.com/fitzyracing1/quest-vr-webxr).
+
+Read [listing.barrage](listing.barrage).

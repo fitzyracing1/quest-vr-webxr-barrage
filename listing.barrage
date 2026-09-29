@@ -1,0 +1,37 @@
+# quest-vr-webxr
+
+> Early JavaScript WebXR work aimed at Quest-style VR in the browser.
+
+## Purpose
+Give a plain-language door to fitzyracing1/quest-vr-webxr.
+
+## How it works (plain English)
+1. Keep the original repo as the place for WebXR files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source to run it.
+
+## Key ideas
+- WebXR (VR/AR in the browser)
+- Quest-style target
+- JavaScript source
+
+## The actual code
+```
+# source: fitzyracing1/quest-vr-webxr
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/quest-vr-webxr”
+
+## Decisions the program makes
+- If a reader needs the scene → send them to the source
+
+## What a person would notice
+A named wrap on a browser-VR door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
